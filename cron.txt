@@ -1,0 +1,1 @@
+* * * * * php {path-to-file-taskScheduler.php}
